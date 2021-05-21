@@ -36,14 +36,23 @@
 
 ### อุปกรณ์
  - Arduino Uno x1
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468099256370/arduino-2168193_1280.png" />
  - LCD 16x2 x1
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395471316942888/RC1602C.png" />
  - Ds3231 R​TC x1
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468225085451/large.png" />
  - Buzzer x1
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468540444722/buzzers-en-components-cin-416-26-B.png" />
  - Resistor 200ohm x1
+ <img src="https://images-na.ssl-images-amazon.com/images/I/41gHlomhBUL._SX342_.jpg" />
  - Resistor 10kohm x1
+ <img src="https://images-na.ssl-images-amazon.com/images/I/41GhcKWBo6L._SX342_.jpg" />
  - Resistor 47kohm x1
+ <img src="https://dp.lnwfile.com/c0on23.jpg" />
  - Push Button x4
+ <img src="https://cdn.sparkfun.com//assets/parts/9/0/00097-03-L.jpg" />
  - Arduino Wire x24
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395465272557578/apipso0nt__42386.1554983785.png" />
 
 <hr>
 
