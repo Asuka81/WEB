@@ -15,7 +15,7 @@
 <hr>
 
 ### เว็บไซต์
-- https://github.com/Asuka81/WEB/tree/main/WEB
+- [Web](https://github.com/Asuka81/WEB/tree/main/WEB)
 
 <hr>
 
