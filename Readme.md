@@ -20,7 +20,7 @@
 <hr>
 
 ### โปสเตอร์
-- [ไฟล์ใน Github](https://github.com/n0uur/demon-egg-with-mr-roasted-beef/tree/master/poster)
+- [Poster](https://github.com/Asuka81/WEB/tree/main/Poster)
 
 <hr>
 
