@@ -1,5 +1,5 @@
 # COMPUTER PROGRAMMING MINI PROJECT
-## digital clock
+## นาฬิกาดิจิตอล
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/812734605639024662/845353729094975558/screenshot_3.png" />
