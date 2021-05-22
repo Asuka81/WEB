@@ -36,23 +36,23 @@
 
 ### อุปกรณ์
  - Arduino Uno x1
- <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468099256370/arduino-2168193_1280.png" />
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468099256370/arduino-2168193_1280.png" width:200px;/>
  - LCD 16x2 x1
- <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395471316942888/RC1602C.png" />
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395471316942888/RC1602C.png" width:200px;/>
  - Ds3231 R​TC x1
- <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468225085451/large.png" />
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468225085451/large.png" width:200px;/>
  - Buzzer x1
- <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468540444722/buzzers-en-components-cin-416-26-B.png" />
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395468540444722/buzzers-en-components-cin-416-26-B.png" width:200px;/>
  - Resistor 200ohm x1
- <img src="https://images-na.ssl-images-amazon.com/images/I/41gHlomhBUL._SX342_.jpg" />
+ <img src="https://images-na.ssl-images-amazon.com/images/I/41gHlomhBUL._SX342_.jpg" width:200px;/>
  - Resistor 10kohm x1
- <img src="https://images-na.ssl-images-amazon.com/images/I/41GhcKWBo6L._SX342_.jpg" />
+ <img src="https://images-na.ssl-images-amazon.com/images/I/41GhcKWBo6L._SX342_.jpg" width:200px;/>
  - Resistor 47kohm x1
- <img src="https://dp.lnwfile.com/c0on23.jpg" />
+ <img src="https://dp.lnwfile.com/c0on23.jpg" width:200px;/>
  - Push Button x4
- <img src="https://cdn.sparkfun.com//assets/parts/9/0/00097-03-L.jpg" />
+ <img src="https://cdn.sparkfun.com//assets/parts/9/0/00097-03-L.jpg" width:200px;/>
  - Arduino Wire x24
- <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395465272557578/apipso0nt__42386.1554983785.png" />
+ <img src="https://cdn.discordapp.com/attachments/800012136486141962/845395465272557578/apipso0nt__42386.1554983785.png" width:200px;/>
 
 <hr>
 
